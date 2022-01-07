@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gabri_234vk1m"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-12-05 12:16:42 "/>
+        <attribute name="created" value="Z2FicmlfMjM0dmsxbTtMQVBUT1AtVDQyQzgwRUo7MjAyMS0xMi0wNTsiMTE6MjA6MjUgIjszMzM2"/>
+        <attribute name="edited" value="Z2FicmlfMjM0dmsxbTtMQVBUT1AtVDQyQzgwRUo7MjAyMS0xMi0wNTsiMTI6MTY6NDIgIjszOzM0NTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="media" newline="True"/>
+            <if expression="media&gt;5">
+                <then>
+                    <if expression="media&gt;8">
+                        <then>
+                            <output expression="&quot;muito bem&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;foi bem&quot;" newline="True"/>
+                        </else>
+                    </if>
+                    <output expression="&quot;passou&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;se lascou&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
