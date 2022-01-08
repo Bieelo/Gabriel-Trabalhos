@@ -26,6 +26,17 @@ public class Program
            Console.WriteLine( nome +", sua média é de: "+ media);
 
            Console.ReadLine();
+           
+           if(media > 6)
+           {
+           Console.WriteLine("Você passou de ano!");
+           }
+
+           else
+           {
+           Console.WriteLine("Você não passou");
+           }
+
 
         }
 }
