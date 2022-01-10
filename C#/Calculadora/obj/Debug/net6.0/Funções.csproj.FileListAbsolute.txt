@@ -1,0 +1,15 @@
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\bin\Debug\net6.0\Funções.exe
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\bin\Debug\net6.0\Funções.deps.json
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\bin\Debug\net6.0\Funções.runtimeconfig.json
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\bin\Debug\net6.0\Funções.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\bin\Debug\net6.0\ref\Funções.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\bin\Debug\net6.0\Funções.pdb
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.csproj.AssemblyReference.cache
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.AssemblyInfoInputs.cache
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.AssemblyInfo.cs
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.csproj.CoreCompileInputs.cache
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\ref\Funções.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.pdb
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Calculadora\obj\Debug\net6.0\Funções.genruntimeconfig.cache
