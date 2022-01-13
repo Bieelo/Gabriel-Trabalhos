@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\switch\\switch.csproj": {}
+    "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\Switch\\switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\switch\\switch.csproj": {
+    "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\Switch\\switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\switch\\switch.csproj",
+        "projectUniqueName": "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\Switch\\switch.csproj",
         "projectName": "switch",
-        "projectPath": "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\switch\\switch.csproj",
+        "projectPath": "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\Switch\\switch.csproj",
         "packagesPath": "C:\\Users\\gabri_234vk1m\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\switch\\obj\\",
+        "outputPath": "C:\\Users\\gabri_234vk1m\\Desktop\\Pasta do GitHub\\C#\\Switch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri_234vk1m\\AppData\\Roaming\\NuGet\\NuGet.Config",

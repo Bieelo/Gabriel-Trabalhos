@@ -1,0 +1,15 @@
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\bin\Debug\net6.0\Menu.exe
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\bin\Debug\net6.0\Menu.deps.json
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\bin\Debug\net6.0\Menu.runtimeconfig.json
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\bin\Debug\net6.0\Menu.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\bin\Debug\net6.0\ref\Menu.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\bin\Debug\net6.0\Menu.pdb
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.csproj.AssemblyReference.cache
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfoInputs.cache
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.AssemblyInfo.cs
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\ref\Menu.dll
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.pdb
+C:\Users\gabri_234vk1m\Desktop\Pasta do GitHub\C#\Menu\obj\Debug\net6.0\Menu.genruntimeconfig.cache
